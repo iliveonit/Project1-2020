@@ -36,4 +36,8 @@ Datasets to be Used: Kaggle(CSVS), weatherapi, google(gmaps)/basemaps uber(maybe
 
 Rough Breakdown of Tasks:
 -------------------------
-
+1. Each branch has dataset to answer corresponding question.
+2. For a branch, the dataset will capture lists for ridership statistics for different period for visualizartion purpose (Plot: Pie/Line/Bar/Scatter/Linear Regresssion/... charts)
+3. Work on dataset for 1 specific category of statistics and create sub-data to plot and see it answered question in some-way.
+4. If successful - make commit, create a tag (release), merge that into master.
+5. Keep building on top of this tag (release), until all parts of the question is anwered/full visualization is built.
