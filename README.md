@@ -41,3 +41,7 @@ Rough Breakdown of Tasks:
 3. Work on dataset for 1 specific category of statistics and create sub-data to plot and see it answered question in some-way.
 4. If successful - make commit, create a tag (release), merge that into master.
 5. Keep building on top of this tag (release), until all parts of the question is anwered/full visualization is built.
+<<<<<<< HEAD
+=======
+
+>>>>>>> e4a3f704a89b57513d57fb4630dd21ba282b9117
